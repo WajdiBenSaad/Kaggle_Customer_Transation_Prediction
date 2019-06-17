@@ -6,7 +6,8 @@ In this repo, I assamble some of the work I did during an interesting ( and a ve
 
 It was a true learning experience for me to participate in the challenge. What mad it a special competition is the number of talented and smart participants for all over the world. I would particularly mention all the Kaggle masters and grand-masters that were driving the challenge to higher levels and providing ideas and hints all along the way.
 
-Here is a part of the description provided by the competition hosts: 
+### Here is a part of the description provided by the competition hosts: 
+
 "... In this challenge, we invite Kagglers to help us identify which customers will make a specific transaction in the future, irrespective of the amount of money transacted. The data provided for this competition has the same structure as the real data we have available to solve this problem. "
 
 
