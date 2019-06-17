@@ -24,4 +24,9 @@ One of the 'magic' ideas that were discussed in the competition forum was featur
 Other feature engineering ideas were applied, such as creating 100s of new variables as a blend of existing variables, and doing all possible and imaginable combinations.
 
 
-[3-LightGBM model with Data Augmentation](Wajdi_Santander_Customer_Transation_Prediction_Code_V09.ipynb)
+[3-Other ideas that did not work (Work in progress]()
+
+Here, I will try to assamble all (most) of the ideas that I have tried but did not work.
+
+It was mostly different models (XGBoost, Regressions, Basic Neural Network models... ect.)
+
