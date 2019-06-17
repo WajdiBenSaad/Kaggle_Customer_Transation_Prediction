@@ -13,3 +13,9 @@ In this notebook, I tried to go though the data and see if I could notice a cert
 - Almost every participant was stuck at a certain performance threshold : it was very hard to enhance the model beyond a certain performance point
 
 [2-LightGBM model with Data Augmentation](Wajdi_Santander_Customer_Transation_Prediction_Code_V09.ipynb)
+
+I have experimented with various models and technics, But the model that had the highest performance point was the LightGBM.
+Stacking and bleing was also a huge part of the top 1% winning solutions. However, I have tried to keep it simple and to get though it step by step and understand how the data is behaving after passing through each different model.
+
+One of the 'magic' ideas that were discussed in the competition forum was feature engineering and especially data augmentation.
+Other feature engineering ideas were applied, such as creating 100s of new variables as a blend of existing variables, and doing all possible and imaginable combinations.
