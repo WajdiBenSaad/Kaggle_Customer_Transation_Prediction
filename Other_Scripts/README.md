@@ -10,3 +10,7 @@ I called this a failed attemt due to the huge time and effort this function woul
 However, it is a very time-consuming idea because instead of focusing all the computing powers on a single 'great' model, you will find yourself spending all your time waiting for the 100 model combination H2O is working on.
 
 I would recommend this for people with a very good computing power capacity, and also for people working with a small data set.
+
+[2- LightGBM with R](/Other_Scripts/R_LightGBM_NoteBook_V04.ipynb)
+
+
