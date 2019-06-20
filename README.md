@@ -12,7 +12,6 @@ It was a true learning experience for me to participate in the challenge. What m
 "... In this challenge, we invite Kagglers to help us identify which customers will make a specific transaction in the future, irrespective of the amount of money transacted. The data provided for this competition has the same structure as the real data we have available to solve this problem. "
 
 
-
 [1-Exploratory Data Analysis Notebook](/EDA_Santander_Customer_Transation_Prediction_Wajdi_V011.ipynb)
 
 In this notebook, I tried to go though the data and see if I could notice a certain pattern or an interesting trend. It was one of the most interesting phases of this competition because:
