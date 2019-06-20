@@ -14,6 +14,8 @@ I would recommend this for people with a very good computing power capacity, and
 [2- LightGBM with R](/Other_Scripts/R_LightGBM_NoteBook_V04.ipynb)
 
 During the competition, 90% of the shared technics and methods, had all the implementations done with Python libraries, considering the size of the data provided for the challenge and the time it requires to process and train the models.
+
 One of the participants has pointed out that R has given a repectable performance with the existing data, so I wanted to give it a try to see how it compares with Python's performance.
 
+In this notebook I have tried to test this idea and it was a great exercice. The whole thing took about 3 hours to run and the results were interesting.
 
