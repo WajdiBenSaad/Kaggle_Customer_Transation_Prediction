@@ -35,3 +35,7 @@ Here, I will try to assamble all (most) of the ideas that I have tried but did n
 
 It was mostly different models (XGBoost, Regressions, Basic Neural Network models... ect.)
 
+
+##### Info: 
+I could not share the competition data due to the competition rules. The competition host requires an explicit acceptance of the competition rules by the user before having access to the data set. To be able to get the competition data, you should have a kaggle account, access the competition page and agree on the competition rules.
+
