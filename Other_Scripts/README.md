@@ -1,6 +1,6 @@
 # Kaggle Competition : Santander Customer Transation Prediction
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://twitter.com/wajdi_bs)
- [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://twitter.com/wajdi_bs) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://twitter.com/wajdi_bs)  [![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://twitter.com/wajdi_bs)
+   [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://twitter.com/wajdi_bs) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://twitter.com/wajdi_bs)  [![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://twitter.com/wajdi_bs)
 
 ### Failed Attempts and lessons learnt :
 During the course of this competition, I have tried various methods and ideas. Not all of them worked but it was an interesting exercice to see what would be the impact of trying different technics and methods on the overall performance of my final submission.
